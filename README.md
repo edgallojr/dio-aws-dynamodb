@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/85174365/135700992-35897c1d-c21b-4429-84e9-39aef098fec5.png)
+
+
 # dio-aws-dynamodb
 Features Relacionais (SQL) e Não Relacionais (NoSQL) usando o mesmo banco de dados com o DynamoDB da AWS. 
 
